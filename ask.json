@@ -1,0 +1,46 @@
+{"token_economist": 
+	[
+		{ "value":"advise on blockchain selection"},{ "value":"edit a white paper"},{ "value":"model token economics"},{ "value":"provide feedback on a whitepaper"},{ "value":"provide feedback on token distribution"},{ "value":"provide feedback on token economics"},{ "value":"research an ICO"},{ "value":"speak at an event"},{ "value":"write a whitepaper"},{ "value":"help with something"}
+	]
+,
+"advisor": 
+	[
+      {"value":"advise on blockchain selection"},{ "value":"analyze regulatory compliance"},{ "value":"build partnerships help with an ICO"},{ "value":"provide feedback on a go-to-market plan"},{ "value":"provide feedback on a pitch"},{ "value":"provide feedback on a pitch deck"},{ "value":"provide feedback on a product brief"},{ "value":"provide feedback on a whitepaper"},{ "value":"provide feedback on marketing material"},{ "value":"provide feedback on my MVP"},{ "value":"provide feedback on my prototype"},{ "value":"provide feedback on token distribution"},{ "value":"provide feedback on token economics"},{ "value":"speak at an event"},{ "value":"help with something"}  
+	]
+,
+"designer": 
+	[
+      {"value":"build a brand"},{ "value": "build a prototype"},{ "value": "build wireframes"},{ "value": "design a website"},{ "value": "provide feedback on my MVP"},{ "value": "provide feedback on my prototype"},{ "value": "speak at an event"}
+	]
+,
+"engineer": 
+	[
+      {"value": "help with something"},{ "value":"advise on blockchain selection"},{ "value":"audit security of a project"},{ "value":"audit smart contracts"},{ "value":"build a MVP"},{ "value":"build a proof of concept"},{ "value":"build a prototype"},{ "value":"build a website"},{ "value":"build smart contracts"},{ "value":"speak at an event"},{ "value":"help with something"}
+	]
+    ,
+"entrepreneur": 
+	[
+		{"value": "build a MVP"},{ "value":"build a proof of concept"},{ "value":"build a prototype"},{ "value":"build a team"},{ "value":"build partnerships"},{ "value":"help with an ICO"},{ "value":"introduce an advisor"},{ "value":"introduce an investor"},{ "value":"provide feedback on a go-to-market plan"},{ "value":"provide feedback on a pitch"},{ "value":"provide feedback on a pitch deck"},{ "value":"provide feedback on a product brief"},{ "value":"provide feedback on a whitepaper"},{ "value":"provide feedback on marketing material"},{ "value":"provide feedback on my MVP"},{ "value":"provide feedback on my prototype"},{ "value":"provide feedback on token distribution"},{ "value":"provide feedback on token economics"},{ "value":"speak at an event"},{ "value":"help with something"}
+	]
+,
+"investor": 
+	[
+		{"value": "advise on blockchain selection"},{ "value":"build partnerships"},{ "value":"fund a project"},{ "value":"grow a business"},{ "value":"help with an ICO"},{ "value":"provide feedback on a go-to-market plan"},{ "value":"provide feedback on a pitch"},{ "value":"provide feedback on a pitch deck"},{ "value":"provide feedback on a product brief"},{ "value":"provide feedback on a whitepaper"},{ "value":"provide feedback on marketing material"},{ "value":"provide feedback on my MVP"},{ "value":"provide feedback on my prototype"},{ "value":"provide feedback on token distribution"},{ "value":"provide feedback on token economics"},{ "value":"speak at an event"},{ "value":"help with something"},{ "value":"analyze regulatory compliance"},{ "value":"help with an ICO"},{ "value":"perform due diligence"},{ "value":"provide feedback on token distribution"},{ "value":"speak at an event"},{ "value":"write a privacy policy"},{ "value":"write a token purchase agreement"},{ "value":"write legal agreements"},{ "value":"write terms of use"},{ "value":"help with something"}
+	]
+,
+"marketer": 
+	[
+		{"value": "build a brand"},{ "value":"build a community"},{ "value":"build a website"},{ "value":"build partnerships"},{ "value":" design a website"},{ "value":"grow a business"},{ "value":"grow a community"},{ "value":"grow a social media following"},{ "value":"help with an ICO"},{ "value":"manage a community"},{ "value":"manage social media"},{ "value":"promote an ICO"},{ "value":"provide feedback on a go-to-market plan"},{ "value":"provide feedback on a pitch"},{ "value":"provide feedback on a pitch deck"},{ "value":"provide feedback on a product brief"},{ "value":"provide feedback on a whitepaper"},{ "value":"provide feedback on marketing material"},{ "value":"help with something"}
+	]
+,
+"writer": 
+	[
+		{"value": "edit a product brief"},{ "value":"edit a white paper"},{ "value":"provide feedback on a product brief"},{ "value":"provide feedback on a whitepaper"},{ "value":"translate a whitepaper"},{ "value":"write a product brief"},{ "value":"write a whitepaper"},{ "value":"help with something"}
+	]
+,
+"Truebase_member": 
+	[
+		{"value": "advise on blockchain selection"},{ "value":"analyze regulatory compliance"},{ "value":"audit security of a project"},{ "value":"audit smart contracts"},{ "value":"build a brand"},{ "value":"build a community"},{ "value":"build a go-to-market plan"},{ "value":"build a MVP"},{ "value":"build a proof of concept"},{ "value":"build a prototype"},{ "value":"build a team"},{ "value":"build a website"},{ "value":"build partnerships"},{ "value":"build smart contracts"},{ "value":"build wireframes"},{ "value":"design a website"},{ "value":"edit a product brief"},{ "value":"edit a white paper"},{ "value":"fund a project"},{ "value":"grow a business"},{ "value":"grow a community"},{ "value":"grow a social media following"},{ "value":"help with an ICO"},{ "value":"introduce an advisor"},{ "value":"introduce an investor"},{ "value":"manage a community"},{ "value":"manage social media"},{ "value":"model token economics"},{ "value":"perform due diligence"},{ "value":"promote an ICO"},{ "value":"provide feedback on a go-to-market plan"},{ "value":"provide feedback on a pitch"},{ "value":"provide feedback on a pitch deck"},{ "value":"provide feedback on a product brief"},{ "value":"provide feedback on a whitepaper"},{ "value":"provide feedback on marketing material"},{ "value":"provide feedback on my MVP"},{ "value":"provide feedback on my prototype"},{ "value":"provide feedback on token distribution"},{ "value":"provide feedback on token economics"},{ "value":"research an ICO"},{ "value":"speak at an event"},{ "value":"translate a whitepaper"},{ "value":"write a privacy policy"},{ "value":"write a product brief"},{ "value":"write a token purchase agreement"},{ "value":"write a whitepaper"},{ "value":"write legal agreements"},{ "value":"write terms of use"},{ "value":"help with something"}
+	]
+}
+
